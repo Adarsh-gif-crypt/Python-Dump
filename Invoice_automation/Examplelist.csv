@@ -1,0 +1,6 @@
+Name,Country,Product,Discount_Percent,Units_Sold,Sales_Prices,Date
+Alex,Denmark,Glossy Paper,0,122,9760,01-Jan-20
+Rakesh,India,Press Paper,0,2323,92920,02-Jan-20
+Esteban,France,Poster Paper,0,434,26040,05-Jan-20
+Sebastian,Germany,Press Paper,0,12123,484920,06-Jan-20
+Michael,Germany,Poster Paper,30%,6500,273000,09-Jan-20
