@@ -6,3 +6,6 @@ number tiles can be moved. Start and goal states of the puzzle are also provided
 can be solved by moving the integer tiles one by one in the empty space and henceforth
 achieving the goal configuration.
 
+![Test_image_1](https://media.geeksforgeeks.org/wp-content/uploads/puzzle8init.jpg)
+
+This program uses the A star algorithm. More of which can be read [here](https://www.geeksforgeeks.org/a-search-algorithm/)
